@@ -1,3 +1,4 @@
+![image](https://raw.githubusercontent.com/rdgarce/ray_tracing/main/renders/6spheres_1000x1500.png)
 # Ray tracing for 3D scene render
 A short and easy-to-use implementation of the ray tracing algorithm in python in the context of a 3D scene render.
 
