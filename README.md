@@ -3,7 +3,7 @@
 A short and easy-to-use implementation of the ray tracing algorithm in python in the context of a 3D scene render.
 
 ## Why
-*Ray tracing* as always been a buzz word for us and so we decided to investigate on computer graphics and scene illumination topics and implement an educational and easy-to-use version of the algorithm to creare a 3D scene renderer.
+*Ray tracing* as always been a buzz word for us and so we decided to investigate on computer graphics and scene illumination topics and implement an educational and easy-to-use version of the algorithm to create a 3D scene renderer.
 This code is the product of our work.
 
 ## What is it
